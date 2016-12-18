@@ -1,3 +1,6 @@
+102:
+- Added support for the Futaba TOSD-5711BB VFDisplay on Elonex Artisan/Scaleo Media Centre PCs
+
 101:
 - Update to upstream 1554506
 
